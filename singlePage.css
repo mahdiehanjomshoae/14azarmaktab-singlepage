@@ -1,12 +1,15 @@
 h1{
     color: red;
-
-    border-bottom: 9px solid red;
-    
-    max-width: 75px;
-    border-radius: 10px;
     margin-left: 20px;
 }
 p{
     margin-left: 20px;
+}
+.line{
+    border-bottom: 9px solid red;
+    border-radius: 10px;
+    width: 60px;
+    border-radius: 10px;
+    margin-left: 20px;
+
 }
