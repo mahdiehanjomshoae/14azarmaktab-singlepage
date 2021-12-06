@@ -1,15 +1,34 @@
+body{
+    margin: 0% 5%;
+}
 h1{
     color: red;
-    margin-left: 20px;
 }
-p{
-    margin-left: 20px;
-}
+
 .line{
     border-bottom: 9px solid red;
-    border-radius: 10px;
+    border-radius: 5px;
     width: 60px;
-    border-radius: 10px;
-    margin-left: 20px;
-
+   
+}
+/* .job{
+    background-color: aquamarine;
+} */
+.person{
+    display: inline-block;
+    width: 30%;
+    box-shadow: 0px 1px 18px rgba(0, 0, 0, 0.2);
+}
+.person img{
+    width: 100%;
+    height: auto;
+}
+div.image1{
+    padding: 15px;
+    text-align: ltr;
+    
+}
+.second-child{
+    margin-right: 3%;
+    margin-left: 3%;
 }
